@@ -1,3 +1,4 @@
+# [LIEN GOOGLE COLLABORATORY 🖇️](https://colab.research.google.com/drive/1CaLyq1azazLa3682fGXkIn8g3O-qlqdO?usp=sharing)
 # **Préambule 📜** 
 
 >Je suis Erwan Coubret, actuellement élève de MP2I qui aime bien jouer avec les données. Alors j'ai récupéré celles de parcoursup et j'ai fait ce notebook pour permettre à tout le monde d'y jeter un coup d'œil facilement. Normalement j'ai fait en sorte que ce qui est mis est compréhensible et facilement modifiable pour qui le veut, à condition d'avoir 2/3 connaissances en python.
@@ -19,6 +20,3 @@
 * **🐼 Pandas** : Librairie pour transformer vos datasets en "dataframe", un outil puissant pour manipuler des données.
 
 * **📊 Plotly** : Librairie pour visualiser les données, de manière plus propre que matplotlib, avec notamment une meilleure interaction avec le graphe... Bien qu'encore trop peu utilisée aujourd'hui, la techno est très puissante. Si vous voulez jeter un coup d'oeil aux capacités je vous redirige vers ce tutoriel : https://github.com/antonin-lfv/Plotly_tutorial. Ici on utilisera **plotly.graph_objects**, mais d'autres versions existent, avec leurs propres avantages.
-
-
-****
