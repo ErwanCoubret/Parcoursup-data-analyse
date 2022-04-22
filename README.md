@@ -1,5 +1,8 @@
-# [LIEN GOOGLE COLLABORATORY 🖇️](https://colab.research.google.com/drive/1CaLyq1azazLa3682fGXkIn8g3O-qlqdO?usp=sharing)
-# **Préambule 📜** 
+# **Parcoursup Data Analyse** 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CaLyq1azazLa3682fGXkIn8g3O-qlqdO?usp=sharing)
+
+## **Préambule 📜** 
 
 >Je suis Erwan Coubret, actuellement élève de MP2I qui aime bien jouer avec les données. Alors j'ai récupéré celles de parcoursup et j'ai fait ce notebook pour permettre à tout le monde d'y jeter un coup d'œil facilement. Normalement j'ai fait en sorte que ce qui est mis est compréhensible et facilement modifiable pour qui le veut, à condition d'avoir 2/3 connaissances en python.
 > <br/><br/>
